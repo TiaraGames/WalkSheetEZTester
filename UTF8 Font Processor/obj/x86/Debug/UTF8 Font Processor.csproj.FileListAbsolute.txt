@@ -1,0 +1,5 @@
+G:\Codes\Tiara\WalkSheetEZTester\UTF8 Font Processor\bin\x86\Debug\UTF8 Font Processor.dll
+G:\Codes\Tiara\WalkSheetEZTester\UTF8 Font Processor\bin\x86\Debug\UTF8 Font Processor.pdb
+G:\Codes\Tiara\WalkSheetEZTester\UTF8 Font Processor\obj\x86\Debug\UTF8 Font Processor.csprojResolveAssemblyReference.cache
+G:\Codes\Tiara\WalkSheetEZTester\UTF8 Font Processor\obj\x86\Debug\UTF8 Font Processor.dll
+G:\Codes\Tiara\WalkSheetEZTester\UTF8 Font Processor\obj\x86\Debug\UTF8 Font Processor.pdb
